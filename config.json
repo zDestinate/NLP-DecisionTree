@@ -1,0 +1,12 @@
+{
+	"filepath":
+	{
+		"train": "hw1.train.col",
+		"dev": "hw1.dev.col",
+		"test": "hw1.test.col"
+	},
+	"file_encoding": "utf-8",
+	"verbose_level": 0,
+	"shuffle_data": true,
+	"learning_sample_rate": [0.1, 0.2, 0.5, 0.8, 1.0]
+}
